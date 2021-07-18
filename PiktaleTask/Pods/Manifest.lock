@@ -1,0 +1,30 @@
+PODS:
+  - AnyErrorKit (0.1.4)
+  - JSONParsing (0.1.9):
+    - AnyErrorKit (~> 0.1.4)
+    - SwiftyJSON (~> 4.1.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - JSONParsing (~> 0.1.8)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - AnyErrorKit
+    - JSONParsing
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AnyErrorKit: 6083091402347e82158c4e6e565680bdd4d1928c
+  JSONParsing: 8e2b47864958a64ff2d84481d97135fd7aa0d880
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 648d792ad001288fbe296183d52462adaf8f9e42
+
+COCOAPODS: 1.10.1
